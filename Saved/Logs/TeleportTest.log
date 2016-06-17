@@ -175,4 +175,42 @@ LogInit: Object subsystem initialized
 [2016.06.17-11.36.34:860][  0]LogExternalProfiler: Using external profiler: VSPerf
 [2016.06.17-11.36.34:868][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
 [2016.06.17-11.36.34:868][  0]LogOcInput: OculusInput pre-init called
-[2016.06.17-11.36.34:869][  0]LogOcInput: Can't find Oculus
+[2016.06.17-11.36.34:869][  0]LogOcInput: Can't find Oculus library dev build: is proper Runtime installed? Version: 1.3.2
+[2016.06.17-11.36.34:887][  0]SourceControl: Info On branch master
+[2016.06.17-11.36.34:887][  0]SourceControl: Info Changes to be committed:
+[2016.06.17-11.36.34:887][  0]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	new file:   Content/TeleportInterface.uasset
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	new file:   Content/TeleportPawn.uasset
+[2016.06.17-11.36.34:887][  0]SourceControl: Info Untracked files:
+[2016.06.17-11.36.34:887][  0]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Config/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Content/Geometry/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Content/Mannequin/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Content/ThirdPerson/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Content/ThirdPersonBP/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Intermediate/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	Saved/
+[2016.06.17-11.36.34:887][  0]SourceControl: Info 	TeleportTest.uproject
+[2016.06.17-11.36.34:887][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.06.17-11.36.35:017][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.06.17-11.36.35:072][  1]LogAssetRegistry: Asset discovery search completed in 23.5160 seconds
+[2016.06.17-11.36.35:072][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.06.17-11.36.35:072][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2016.06.17-11.36.39:765][561]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.12/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.12/Engine/Content/' is outside repository
+[2016.06.17-11.39.52:619][795]SourceControl: Info On branch master
+[2016.06.17-11.39.52:619][795]SourceControl: Info Your branch is ahead of 'origin/master' by 1 commit.
+[2016.06.17-11.39.52:619][795]SourceControl: Info   (use "git push" to publish your local commits)
+[2016.06.17-11.39.52:619][795]SourceControl: Info nothing to commit, working directory clean
+[2016.06.17-11.40.17:336][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dsf" FILE="../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Content/dsf.uasset" SILENT=true
+[2016.06.17-11.40.17:349][473]LogSavePackage: Save=12.00ms
+[2016.06.17-11.40.17:349][473]LogSavePackage: Moving '../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Saved/dsf6A54753C4951F1CDDDC894B5EBE9B8A2.tmp' to '../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Content/dsf.uasset'
+[2016.06.17-11.40.17:352][473]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Content/dsf.uasset
+[2016.06.17-11.40.33:204][347]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.06.17-11.40.33:236][347]SourceControl: Info [master fc2e459] gf
+[2016.06.17-11.40.33:236][347]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.06.17-11.40.33:236][347]SourceControl: Info  create mode 100644 Content/dsf.uasset
+[2016.06.17-11.40.33:241][347]SourceControl: Info Commited [master fc2e459] gf.
+[2016.06.17-11.48.08:582][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fsdfsd" FILE="../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Content/fsdfsd.uasset" SILENT=true
+[2016.06.17-11.48.08:596][754]LogSavePackage: Save=12.36ms
+[2016.06.17-11.48.08:596][754]LogSavePackage: Moving '../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Saved/fsdfsd123103FA4E756976BB9986A80D99DA9C.tmp' to '../../../../../../Users/Oculus PC1/Documents/Unreal Projects/TeleportTest/Content/fsdfsd.uasset'
+[2016.06.17-11.48.08:598][754]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Oculus P
