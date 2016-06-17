@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.12",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OSVR",
+			"Enabled": true
+		},
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
+		}
+	]
+}
